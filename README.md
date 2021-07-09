@@ -1,16 +1,29 @@
-### Hi there 👋
+## 🔭 I'm currently working on ...
 
-<!--
-**zaxbux/zaxbux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ * My business
+ * Winter CMS plugins
+ * Backblaze B2 API libraries
 
-Here are some ideas to get you started:
+## 🌱 I'm currently learning ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ * Vue
+ * TypeScript
+ * Unit testing
+
+<!-- ## 👯 I'm looking to collaborate on ... -->
+
+<!-- ## 🤔 I'm looking for help with ... -->
+
+<!-- ## 💬 Ask me about ... -->
+
+## 📫 How to reach me:
+
+ * [Email](hello@zacharyschneider.ca)
+
+## 😄 Pronouns:
+
+ * he/him
+
+## ⚡ Fun fact: ...
+
+ * I've been programming for almost a decade.
