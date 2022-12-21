@@ -44,6 +44,7 @@ I also modified the weather service to be compatible with Cloudflare Workers, a 
 ## 📫 How to reach me:
 
  * [Email](hello@zacharyschneider.ca)
+ * <a rel="me" href="https://mstdn.ca/@zach_s">Mastodon</a>
 
 ## 😄 Pronouns:
 
